@@ -1,0 +1,2 @@
+rootProject.name='kompas'
+include ':app'
